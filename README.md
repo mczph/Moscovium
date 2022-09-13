@@ -1,2 +1,2 @@
 # Moscovium
-Huge optimization of mods in 1.12.2
+Huge optimization for modpacks in 1.12.2
