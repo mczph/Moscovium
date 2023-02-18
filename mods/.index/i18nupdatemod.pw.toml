@@ -1,0 +1,14 @@
+name = "I18nUpdateMod"
+filename = "I18nUpdateMod-3.4.1-all.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/PWERr14M/versions/WtWC6uPS/I18nUpdateMod-3.4.1-all.jar"
+hash-format = "sha512"
+hash = "75fd1cefdaa807e165a8cb8849d20fb2eb424336e82af57d6a154727ffda62c0bc4a8abb0825ea1e3a9d96633481779ec9b91d26377b943f6bca4c433e63a324"
+
+[update]
+[update.modrinth]
+mod-id = "PWERr14M"
+version = "WtWC6uPS"

@@ -1,0 +1,14 @@
+name = "project-444043"
+filename = "preview_OptiFine_1.12.2_HD_U_G6_pre1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "ab2118b1ed23444d6decf081e0295e4c679af6c2"
+
+[update]
+[update.curseforge]
+file-id = 3378442
+project-id = 444043

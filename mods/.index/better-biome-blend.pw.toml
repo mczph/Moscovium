@@ -1,0 +1,14 @@
+name = "Better Biome Blend"
+filename = "betterbiomeblend-1.12.2-1.1.7-forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Rs6c7WyL/versions/1.12.2-1.1.7-forge/betterbiomeblend-1.12.2-1.1.7-forge.jar"
+hash-format = "sha512"
+hash = "a90ed0b665507e434ede0a6c1521bd106fc483eb3260772d080e4c9f55dc7319d69480048a4e96ffe2adc390483b7588ffa7a34e725a57d44ad17d9ccc67f9ea"
+
+[update]
+[update.modrinth]
+mod-id = "Rs6c7WyL"
+version = "S63NmSwB"

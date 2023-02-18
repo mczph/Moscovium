@@ -1,0 +1,14 @@
+name = "KleeSlabs"
+filename = "KleeSlabs_1.12.2-5.4.12.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "ed95352b5c4a8dd72366cc25dc48e249cf5cbe2b"
+
+[update]
+[update.curseforge]
+file-id = 2733525
+project-id = 241895

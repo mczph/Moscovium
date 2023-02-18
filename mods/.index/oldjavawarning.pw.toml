@@ -1,0 +1,14 @@
+name = "OldJavaWarning"
+filename = "OldJavaWarning-1.12.2-1.1.11.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "a197d88223f05973c87e11c0eb33f6586609240e"
+
+[update]
+[update.curseforge]
+file-id = 2867050
+project-id = 293496

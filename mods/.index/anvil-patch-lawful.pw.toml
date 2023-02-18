@@ -1,0 +1,14 @@
+name = "Anvil Patch - lawful"
+filename = "anvilpatch-1.1.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "2557a1d6718e9e5290f373d7c19397e7c6e81e51"
+
+[update]
+[update.curseforge]
+file-id = 3602349
+project-id = 320093

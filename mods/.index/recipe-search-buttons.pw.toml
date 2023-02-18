@@ -1,0 +1,14 @@
+name = "Recipe Search Buttons"
+filename = "recipesearchbuttons-1.12.2-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/F0mzextg/versions/1.0.1/recipesearchbuttons-1.12.2-1.0.1.jar"
+hash-format = "sha512"
+hash = "8280d6af131fd21630c2d7857f565772c14ef318c7320f52e979045c18b7970ce4f5040006ef0d460025756bcee4c9e7dbeb9d0b4cdf6ff09152b6be8f54c412"
+
+[update]
+[update.modrinth]
+mod-id = "F0mzextg"
+version = "PwCm2ZMy"

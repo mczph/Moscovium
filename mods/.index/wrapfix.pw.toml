@@ -1,0 +1,14 @@
+name = "换行修复/WrapFix"
+filename = "WrapFix-0.5-thin.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "cb533b92ca019070d3f3a38edb6d9d57df263c8f"
+
+[update]
+[update.curseforge]
+file-id = 3773713
+project-id = 576946

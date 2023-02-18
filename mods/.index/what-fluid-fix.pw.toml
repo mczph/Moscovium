@@ -1,0 +1,14 @@
+name = "WHAT - Fluid Fix"
+filename = "WHAT-0.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "d3cfc19ed8d2707ea5aa26feb91dfbc5d917de92"
+
+[update]
+[update.curseforge]
+file-id = 2545640
+project-id = 290881

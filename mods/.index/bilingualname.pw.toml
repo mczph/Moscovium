@@ -1,0 +1,14 @@
+name = "BilingualName"
+filename = "bilingualname-1.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "7993ea86d70955f8080016c111775cc197df7175"
+
+[update]
+[update.curseforge]
+file-id = 3131226
+project-id = 417557

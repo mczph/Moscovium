@@ -1,0 +1,14 @@
+name = "XP Orb Clump"
+filename = "XPOrbClump-1.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "18f81e1d0c49ce2da13215a115627a764413208c"
+
+[update]
+[update.curseforge]
+file-id = 4098359
+project-id = 633806

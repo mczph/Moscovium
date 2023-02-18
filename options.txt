@@ -96,9 +96,9 @@ key_key.toggleFoVChanges:51:SHIFT
 key_key.reloadSoundSystem:66:SHIFT
 key_key.toggleTimeOfDayOverlay:0
 key_key.togglePotionParticles:66:CONTROL
-key_schematica.key.load:181
+key_schematica.key.load:52
 key_schematica.key.save:55
-key_schematica.key.control:74
+key_schematica.key.control:51
 key_schematica.key.layerInc:0
 key_schematica.key.layerDec:0
 key_schematica.key.layerToggle:0
@@ -141,6 +141,8 @@ key_key.craftingtweaks.decompressStack:0
 key_key.craftingtweaks.decompressAll:0
 key_key.craftingtweaks.refill_last:15
 key_key.craftingtweaks.refill_last_stack:15
+key_FpsReducer.key.guiOpen:207
+key_FpsReducer.key.forceIdle:197
 key_key.itemzoom.toggle:44:SHIFT
 key_key.itemzoom.hold:0
 key_key.itemzoom.zoom.in:0
@@ -180,7 +182,7 @@ key_key.sort_config:37
 key_key.sort:-98
 key_rsb.keybind.find_recipe:79
 key_rsb.keybind.find_uses:80
-soundCategory_master:1.0
+soundCategory_master:0.0
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

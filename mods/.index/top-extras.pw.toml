@@ -1,0 +1,14 @@
+name = "TOP Extras"
+filename = "topextras-1.12.2-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ciiX3QCe/versions/1.0.1/topextras-1.12.2-1.0.1.jar"
+hash-format = "sha512"
+hash = "4f8171e97d60837bd304b2412ca3eb05c3e0beb9f101b245b5ab7fefff096c825dc16d1f7c84e4076c80e278ea261ad25e115c5c002f8fe5ab961a19d138de19"
+
+[update]
+[update.modrinth]
+mod-id = "ciiX3QCe"
+version = "qI63kJcm"

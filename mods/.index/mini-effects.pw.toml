@@ -1,0 +1,14 @@
+name = "Mini Effects"
+filename = "MiniEffects-1.12.2-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/UqcThEX0/versions/yBz0Cvzz/MiniEffects-1.12.2-1.0.1.jar"
+hash-format = "sha512"
+hash = "25eb66dd5222e6c4f0f5b146cb44863e2e4ba5167b3e8f5f16102af3c3b24935d4ee37c18fe4596b22a5904383199e88f94b4be8e44bd72950ee6de1251ad34b"
+
+[update]
+[update.modrinth]
+mod-id = "UqcThEX0"
+version = "yBz0Cvzz"

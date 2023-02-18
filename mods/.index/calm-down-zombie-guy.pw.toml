@@ -1,0 +1,14 @@
+name = "Calm Down Zombie Guy"
+filename = "CalmDownZombieGuy-1.12.2-1.6.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "a9ed1b5c5a22d72bd9fcb0eb09c2204fe7420872"
+
+[update]
+[update.curseforge]
+file-id = 2836777
+project-id = 319382

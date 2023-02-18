@@ -1,0 +1,14 @@
+name = "Prevent Ghost Blocks"
+filename = "preventghost-1.0.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "43094fbb7ca6f8fef32eea41743342588c3f6615"
+
+[update]
+[update.curseforge]
+file-id = 3940251
+project-id = 662036

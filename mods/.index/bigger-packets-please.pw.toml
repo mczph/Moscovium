@@ -1,0 +1,14 @@
+name = "Bigger Packets Please"
+filename = "biggerpacketsplz-since1.8-1.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "423efbeefbfe4ca632b3bcd6b866c466efa98f8f"
+
+[update]
+[update.curseforge]
+file-id = 2655843
+project-id = 309110

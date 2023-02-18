@@ -1,0 +1,14 @@
+name = "Had Enough Characters"
+filename = "hecharacters-1.12.2-1.3.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "eb6cf3b6dc2339a318a91674507b6050fd90d0f0"
+
+[update]
+[update.curseforge]
+file-id = 4035773
+project-id = 640802

@@ -1,0 +1,14 @@
+name = "Dirt2Path [FORGE]"
+filename = "dirt2path-1.8.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "264e010ea79b4f16e3ae842eedb88c0b3ad87a72"
+
+[update]
+[update.curseforge]
+file-id = 2606175
+project-id = 264684

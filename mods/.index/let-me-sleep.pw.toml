@@ -1,0 +1,14 @@
+name = "Let Me Sleep"
+filename = "LetMeSleep-v1.2.3-1.12.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "ffa040f582aef2bf8dbc8cfbaac58965514f1a59"
+
+[update]
+[update.curseforge]
+file-id = 3491956
+project-id = 322764
