@@ -1,0 +1,14 @@
+name = "LoadingTips"
+filename = "LoadingTips-1.12.2-1.1.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "5691b9e1dd39f33746b12b44d510f7961d4d7e0c"
+
+[update]
+[update.curseforge]
+file-id = 2690466
+project-id = 312688

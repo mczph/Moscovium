@@ -1,0 +1,14 @@
+name = "Extra Sounds Legacy"
+filename = "ExtraSounds-1.12.2-1.4.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "30d05a12b5343cfb3b3fd72f3826cafb58557e65"
+
+[update]
+[update.curseforge]
+file-id = 4430816
+project-id = 623654

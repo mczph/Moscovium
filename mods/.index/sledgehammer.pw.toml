@@ -1,14 +1,14 @@
 name = "Sledgehammer"
-filename = "Sledgehammer-1.12.2-2.0.21.jar"
+filename = "Sledgehammer-1.12.2-2.0.22.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/QItC3hpi/versions/MhVy881q/Sledgehammer-1.12.2-2.0.21.jar"
+url = "https://cdn.modrinth.com/data/QItC3hpi/versions/dNQKChpY/Sledgehammer-1.12.2-2.0.22.jar"
 hash-format = "sha512"
-hash = "9b4caf80d675eb010d9253ae6166c430a45dee5f49afbe5f285a99964c271af61abf2bd49ac2ecfd19901d1369899a356ceaa25dc90471e7910ed8cb70afd5a0"
+hash = "a3e10a01d1d19fdcc87b04a8656d43f13c57614792695d3669527eb4b0e8b2723471311701564e8921d7fbd8fa9ddf5ef987bf0d9232e0a3b937e2ed4f1535f9"
 
 [update]
 [update.modrinth]
 mod-id = "QItC3hpi"
-version = "MhVy881q"
+version = "dNQKChpY"

@@ -24,7 +24,7 @@ chatColors:true
 chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
-snooperEnabled:true
+snooperEnabled:false
 fullscreen:false
 enableVsync:false
 useVbo:true
@@ -89,6 +89,7 @@ key_of.key.zoom:46
 key_key.findme.search:21
 key_key.ftbutilities.nbt:49:ALT
 key_key.ftbutilities.trash:211
+key_key.ftbquests.quests:0
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_neat.keybind.toggle:0
@@ -151,6 +152,8 @@ key_key.jeiutilities.displayRecipe:29
 key_key.jeiutilities.pickBookmark:-98
 key_key.jeiutilities.transferRecipe:17:CONTROL
 key_key.jeiutilities.transferRecipeMax:20:CONTROL
+key_jecalculation.key.gui_craft:0
+key_jecalculation.key.gui_math:0
 key_keywizard.keybind.openKeyboardWizard:65
 key_key.toggleLiquids:38
 key_key.toggleVisible:0

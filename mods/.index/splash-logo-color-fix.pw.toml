@@ -1,0 +1,14 @@
+name = "Splash Logo Color Fix"
+filename = "splashlogofix-1.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "e59bfb8ed9e9a0c8c3d49994118494ccdcc4b2ad"
+
+[update]
+[update.curseforge]
+file-id = 2754640
+project-id = 333760

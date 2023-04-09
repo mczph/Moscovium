@@ -1,14 +1,14 @@
 name = "I18nUpdateMod"
-filename = "I18nUpdateMod-3.4.1-all.jar"
+filename = "I18nUpdateMod-3.4.2-all.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/PWERr14M/versions/WtWC6uPS/I18nUpdateMod-3.4.1-all.jar"
+url = "https://cdn.modrinth.com/data/PWERr14M/versions/IbgSfkPB/I18nUpdateMod-3.4.2-all.jar"
 hash-format = "sha512"
-hash = "75fd1cefdaa807e165a8cb8849d20fb2eb424336e82af57d6a154727ffda62c0bc4a8abb0825ea1e3a9d96633481779ec9b91d26377b943f6bca4c433e63a324"
+hash = "8961910c8b70c4e7b62b9c67af9f453404b5baa8228f3ec442613c22172ce235d1d9deac5942fe712afaf52ad0041979915921ed73a2edd2dfb31e6cab5ddc16"
 
 [update]
 [update.modrinth]
 mod-id = "PWERr14M"
-version = "WtWC6uPS"
+version = "IbgSfkPB"

@@ -1,14 +1,14 @@
 name = "XP Orb Clump"
-filename = "XPOrbClump-1.2.jar"
+filename = "Fixeroo-2.0.jar"
 side = "both"
 
 [download]
 mode = "metadata:curseforge"
 url = ""
 hash-format = "sha1"
-hash = "18f81e1d0c49ce2da13215a115627a764413208c"
+hash = "368aa931235ca5c401351c91619406636327933c"
 
 [update]
 [update.curseforge]
-file-id = 4098359
+file-id = 4412006
 project-id = 633806

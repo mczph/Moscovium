@@ -1,14 +1,14 @@
 name = "Particle Culling"
-filename = "particleculling-1.12.2-v1.3.1.jar"
+filename = "particleculling-1.12.2-v1.4.1.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/l7imhLoC/versions/SvQCSV95/particleculling-1.12.2-v1.3.1.jar"
+url = "https://cdn.modrinth.com/data/l7imhLoC/versions/MlzvGCcj/particleculling-1.12.2-v1.4.1.jar"
 hash-format = "sha512"
-hash = "03e9916ab9df21ef1cd938029e7e146e968631a9c425a8bf5a408d0d565d4cdcb48d9a80f600c58571abd04b1caf0e9d7fae6fe8fa3b183d9670a2e510ab4877"
+hash = "966a1fe5b6c924138c6804247c0868030ac13f3c5ee6f5299ac1daef737bf1e18cfc926870d8232e12d863aa02dc18cebaeadd963b5d7b48d0a4b2f96bcbb6ac"
 
 [update]
 [update.modrinth]
 mod-id = "l7imhLoC"
-version = "SvQCSV95"
+version = "MlzvGCcj"

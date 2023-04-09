@@ -1,14 +1,14 @@
 name = "Controlling"
-filename = "Controlling-3.0.10.jar"
+filename = "Controlling-3.0.12.2.jar"
 side = "both"
 
 [download]
 mode = "metadata:curseforge"
 url = ""
 hash-format = "sha1"
-hash = "151671af56599d39ef5ca41bf9bda3584b6818e1"
+hash = "64e791db7eaf3577223a708df0325f07762bd059"
 
 [update]
 [update.curseforge]
-file-id = 3025548
+file-id = 4428378
 project-id = 250398
